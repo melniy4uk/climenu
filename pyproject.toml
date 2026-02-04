@@ -9,6 +9,7 @@ description = "cli helper"
 requires-python = ">=3.10"
 dependencies = [
   "PyYAML>=6.0",
+  "pydantic>=2.12.5",
 ]
 
 [tool.setuptools]
